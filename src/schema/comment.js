@@ -14,7 +14,7 @@ extend type Mutation {
 type Comment {
     id: ID!
     title: String!
-    eval: Int
+    eva: Int
     text: String!
     date: Date!
     user: User!
